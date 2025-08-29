@@ -1,4 +1,7 @@
 # Introduction et objectifs de la formation (5 min)
+
+![Page d'inscription de lexis](assets/Compte_lexis.png)
+
 ## Modalités
 Cette formation durera deux heures, en salle 5. Vous pouvez prendre les notes si vous le souhaitez, un le fil de la formation sera disponible dans le Commun KB.
 Pour cette formation tout le monde doit avoir son propre PC et un accès à internet.
