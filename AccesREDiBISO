@@ -1,1 +1,88 @@
-bla
+<!--
+author:   Samuel Jamet
+
+email:    samuel.jamet@universite-paris-saclay
+
+version:  0.0.1
+
+language: fr
+
+comment:  Test extraction de module
+
+link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
+
+script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
+
+-->
+
+# En préambule : à quoi avez-vous accès ?
+
+Etudiant.es à l'Université Paris-Saclay, vous avez accès à de très nombreuses ressources, les quelques pages qui vont suivre ont pour objectif de vous montrer comment y accéder le plus simplement possible, et de faire un petit tour d'horizon de la diversité des ressources qui sont à votre disposition.
+
+*Si vous vous repérez déjà sans difficulté dans les méandres de l'environnement numériques de l'Université, vous pouvez vous rendre directement [à cette page] pour commencer la formation proprement dite.*
+
+## Atteindre les ressources en lignes sans encombre
+
+Informations primordiales
+---
+
+Dans les pages qui vont suivre, nous vous invitons à vous munir
+
+- de votre **adresse mail universitaire** que vous avez normalement activée dès votre inscription (pour rappel : *prenom.nom@universite-paris-saclay.fr*)
+- du **mot de passe** que vous avez créé lors de l'activation de votre compte universitaire
+
+Sans ces deux informations, vous ne pourrez pas accéder au ressources normalement payantes.
+
+Si vous n'avez pas ces deux informations en votre possession, rendez-vous sur
+[l'annuaire Adonis](https://adonis.universite-paris-saclay.fr/annuaire/index.php) pour :
+
+        {{1}}
+ ![](assets\Acces_RE\Adonis_activer.png) Activer votre compte avec notre n°d'étudiant.e en cliquant sur **Mon compte** > **[Activer son compte](https://adonis.universite-paris-saclay.fr/annuaire/compte/activation/)**
+
+        {{2}}
+![](assets\Acces_RE\Adonis_mdp.png) Récupérer votre **mot de passe** en cliquant sur **Mon compte** > **[Mot de passe perdu](https://adonis.universite-paris-saclay.fr/annuaire/compte/perte_mdp/)**
+
+
+### CAS et wayf !?
+
+Si vous venez d'arriver à l'Université Paris-Saclay, vous n'avez peut-être pas encore eu besoin d'accéder à l'environnement numérique. Avec votre mail universitaire et de votre mot de passe, vous allez pouvoir accéder à votre messagerie, aux réseaux wifis Eduroam et Eduspot, et, bien sûr aux ressources électroniques.
+
+![](assets\Acces_RE\CAS.png)Vous connaissez déjà très certainement la page d'**Authentification Centralisée** (aussi connue sous son petit nom **CAS**) par laquelle vous devez passer pour vous connecter aux différents services proposés par l'université.
+
+        {{1}}
+![](assets\Acces_RE\wayf.png)En revanche, vous n'êtes peut-être pas encore tombé.e sur la page de sélection de votre établissement[^1](Sans faire de design institutionnel, sachez que de nombreux services, en particulier les ressources électroniques, sont mutualisés et proposés par plusieurs établissements dont Paris-Saclay, ce qui nécessite pour vous de spécifier, lorsque vous demandez un accès à ce genre de service, votre établissement de rattachement.). Veillez donc à bien sélectionner " **Université Paris-Saclay (Périmètre employeur) et IOGS** ".
+
+### Via le site web des BU
+
+Maintenant que vous êtes parfaitement équipé.e, partons à la découverte des ressources mises à votre disposition.
+
+Rendez-vous sur le [site des bibliothèques de l'Université Paris-Saclay](https://www.bibliotheques.universite-paris-saclay.fr/) que nous vous invitons à enregistrer dans les favoris de votre navigateur habituel.
+![](assets\Acces_RE\BU_acc.png)
+
+Vous pouvez atteindre la liste des ressources disponibles en ligne en cliquant sur l'onglet **[Explorer les ressources](https://www.bibliotheques.universite-paris-saclay.fr/explorer-les-ressources)**, puis sur [(Toutes les) Ressources 24h/24](https://www.bibliotheques.universite-paris-saclay.fr/explorer-les-ressources/ressources-24h/24)
+
+Les ressources sont classées par grands domaines scientifiques. Les ressources en [Sciences humaines et sociales](https://www.bibliotheques.universite-paris-saclay.fr/ressources-electroniques-en-sciences-humaines-et-sociales), en [Economie-Gestion](https://www.bibliotheques.universite-paris-saclay.fr/ressources-electroniques-en-economie-et-gestion) et bien entendu, en [Droit](https://www.bibliotheques.universite-paris-saclay.fr/ressources-electroniques-en-droit), devraient tout particulièrement vous intéresser, mais n'oubliez pas d'aller faire un tour dans notre sélection de presse !
+![](assets\Acces_RE\BU_RE.png)
+
+### Via le catalogue des BU
+
+Un autre moyen tout aussi efficace vous permettra d'atteindre les ressources en ligne, mais pas seulement, le catalogue des bibliothèques, [Focus](https://upsaclay.focus.universite-paris-saclay.fr/primo-explore/search?vid=33UDPS_VU1&lang=fr_FR)[^1](Attention aux logos ! Pour chercher dans les fonds de l'Université, veillez à bien voir les logos de l'Université Paris-Saclay, de CentralSupélec et de l'ENS Paris-Saclay !).
+
+![](assets\Acces_RE\Logo_Focus.png)
+
+Outre les ressources électroniques, Focus peut être utilisé pour faire vos recherches dans les fonds physiques des bibliothèques (ouvrages, revues scientifiques, presse généraliste, thèses, etc.)
+
+Exemples
+-------
+
+        {{1}}
+Si vous souhaitez vous rendre sur la base Dalloz Enseignant, entrez " Dalloz " dans la barre de recherche pour que Focus vous suggère [Dalloz Enseignant](https://www-dalloz-fr.ezproxy.universite-paris-saclay.fr/enseignants) et [Dalloz Bibliothèque Numérique](https://bibliotheque-lefebvre-dalloz-fr.ezproxy.universite-paris-saclay.fr/).
+![](assets\Acces_RE\Focus_Dalloz.png)
+
+        {{2}}
+![](assets\Acces_RE\Focus_Acces_ligne.png)Si vous faites une recherche autour du droit de l'environnement, entrez " droit de l'environnement " entre guillemets dans la barre de recherche puis cochez " **Accès en ligne** " à gauche de votre écran, dans la zone des *facettes*[^1]. N'oubliez pas de valider en cliquant sur " **Appliquer les filtres** " De cette manière, vous pourrez faire une recherche thématique sur toutes les bases de données auxquelles l'Université est abonnée.
+
+        {{3}}
+![](assets\Acces_RE\Focus_erevue.png)Vous pouvez aussi faire une recherche directement dans les titres des revues ou des ebooks en cliquant sur [e-books et e-revues](https://upsaclay.focus.universite-paris-saclay.fr/primo-explore/jsearch?vid=33UDPS_VU1&lang=fr_FR) en haut de page.
+
+[^1]: ![](assets\Communs_fondamentaux\Facettes.png)Elles correspondent aux filtres qui permettent d'affiner *a posteriori* une recherche documentaire, elles se trouvent dans 99% des cas à gauche des pages de résultats, sachez les reconnaître et les utiliser.
